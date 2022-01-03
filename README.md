@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Althaf-codes
+- 👋 Hi, I’m Althafar @Althaf-codes
 - 👀 I’m interested in creating flutter projects
 - 🌱 I’m currently learning backend for my flutter journey to become an fullstack developer.
 - 💞️ I’m looking to collaborate on ...
