@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Althafar @Althaf-codes
-- 👀 I’m interested in creating flutter projects
-- 🌱 I’m currently learning backend for my flutter journey to become an fullstack developer.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a FullStack Flutter Developer 
+- 🌱 I love learning new skills.
+- 💞️ I’m looking to collaborate with more flutter developers
 - 📫 Reach me via ,
       Gmail:emperoralthaf8@gmail.com 
 
